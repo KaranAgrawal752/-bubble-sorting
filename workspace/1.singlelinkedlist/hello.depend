@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\kannu\documents\workspace\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589783987 source:c:\users\kannu\documents\workspace\singlelinkedlist\main.c
+	<stdio.h>
+	<malloc.h>
+
+1586349027 source:c:\users\kannu\documents\workspace\singlelinkedlist\circularlinkedlist.c
+	<stdio.h>
+	<malloc.h>
+

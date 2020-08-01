@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589875153 source:c:\users\kannu\documents\workspace\queue using array\main.c
+	<stdio.h>
+	<stdlib.h>
+
